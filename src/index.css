@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/*
+ASSET SOURCES
+<a href="https://www.freepik.com/free-photo/3d-futuristic-particle-waves-network-communication_45244852.htm#page=2&query=vector%20wave%20lines&position=14&from_view=search&track=ais">Image by kjpargeter</a> on Freepik
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: sans-serif;
+  color: rgba(255, 255, 255, 0.5);
+  background-color: #11151c;
+}

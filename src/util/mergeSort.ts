@@ -7,7 +7,7 @@ const mergeSort: AlgorithmFnType = (init) => {
     if (arr.length < 2) {
         return { steps: [arr], key };
     }
-    const mid = Math.floor(arr.length / 2);
+    // const mid = Math.floor(arr.length / 2);
     // const leftArr = arr.slice(0, mid);
     // const rightArr = arr.slice(mid);
     // return merge(mergeSort(leftArr), mergeSort(rightArr));

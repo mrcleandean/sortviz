@@ -2,6 +2,8 @@
 
 This project is a Sorting Algorithm Visualizer built using React. It allows users to visually understand the workings of different sorting algorithms through animated steps. This educational tool is designed to help both students and enthusiasts gain deeper insights into how sorting algorithms organize and manage data.
 
+**Production Deploy @ https://www.sortingviz.com/**
+
 ## Features
 
 - **Interactive UI**: A user-friendly interface that allows users to select different sorting algorithms to visualize.
